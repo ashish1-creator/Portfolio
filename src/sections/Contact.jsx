@@ -67,7 +67,7 @@ const Contact = () => {
                                     />
                                 </div>
 
-                                <div>
+                                {/* <div>
                                     <label htmlFor="email">Your Email</label>
                                     <input
                                         type="email"
@@ -78,7 +78,7 @@ const Contact = () => {
                                         placeholder="What’s your email address?"
                                         required
                                     />
-                                </div>
+                                </div> */}
 
                                 <div>
                                     <label htmlFor="message">Your Message</label>
